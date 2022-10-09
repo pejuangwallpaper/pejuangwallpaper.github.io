@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-news
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: / 
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://pejuangwallpaper.github.io/sitemap-index.xml
